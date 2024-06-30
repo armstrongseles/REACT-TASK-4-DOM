@@ -1,0 +1,29 @@
+nav {
+    background: linear-gradient(135deg, #fee140, #fa709a);
+    padding: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0 1rem;
+  }
+  
+  a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: color 0.2s;
+  }
+  
+  a:hover {
+    color: #ecf0f1;
+  }
+  
